@@ -1,1 +1,1 @@
-spaceship-prompt/spaceship.zsh-theme
+/Users/kevin/.ohmyzsh/custom/themes/spaceship-prompt/spaceship.zsh-theme
